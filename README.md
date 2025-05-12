@@ -1,2 +1,7 @@
-Doth thy code compile, brother?\
-Nay, 'tis a simple matter of \`&\` and \`&mut\`.
+**All software sucks, but some suck less**
+
+https://cat-v.org/
+
+https://plan9.io/plan9/
+
+https://suckless.org/
